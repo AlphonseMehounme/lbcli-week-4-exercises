@@ -1,2 +1,2 @@
 # Create a wallet with the name "btrustwallet".
-bitcoin-cli -signet createwallet "btrustwallet"
+bitcoin-cli -regtest createwallet "btrustwallet"
